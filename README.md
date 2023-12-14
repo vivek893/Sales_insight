@@ -50,4 +50,8 @@ Data Analysis Using Power BI
 
 `= Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)`
 
+Feature of the Project:
+============================
+This Power BI sales insight project offers the flexibility to view insights in both mobile and page layouts. Upon opening the project, you can easily switch between page view and mobile layout to customize your viewing experience.
+
 
