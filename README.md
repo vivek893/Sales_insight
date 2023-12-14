@@ -1,7 +1,7 @@
 ## Sales Insights Data Analysis Project
 
 
-1. SQL database dump is in db_dump.sql file above. Download `Sql_.sql` file to your local computer and import it as per instructions given in the tutorial video
+1. Import "SQL_quary and data.sql" file in Power BI. This is SQL file. store in our local system.
 
 ### Data Analysis Using SQL
 
